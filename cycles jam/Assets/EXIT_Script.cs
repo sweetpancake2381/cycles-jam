@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EXIT : MonoBehaviour
+public class EXIT_Script : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()

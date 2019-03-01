@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Button : MonoBehaviour
+public class PLAY_Script : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
