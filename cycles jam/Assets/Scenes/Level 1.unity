@@ -2558,7 +2558,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movement: {fileID: 1842912601}
-  gameManager: {fileID: 0}
 --- !u!1 &1894851615
 GameObject:
   m_ObjectHideFlags: 0
